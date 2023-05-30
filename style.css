@@ -48,7 +48,7 @@ aside{
     display: flex;
     justify-content: center;
 }
-.second-button{
+.Disabeld-button{
     display: flex;
     justify-content: start;
     
@@ -85,7 +85,9 @@ aside{
         justify-content: center;
     }
     .second-button{
-        justify-content: center;
+        display: flex;
+        justify-content: space-evenly;
+        align-content: center;
     }
     .box-2{
         width: 100%;
